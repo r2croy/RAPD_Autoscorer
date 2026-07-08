@@ -66,7 +66,11 @@ Ubuntu 24.04 LTS
 
 Python 3.12
 
-PyQt5
+Matplotlib
+
+Scipy
+
+Pillow
 
 OpenCV
 
