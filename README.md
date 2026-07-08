@@ -80,6 +80,39 @@ Pandas
 
 OpenPyXL
 
+##Installation (Debian Based Linux OS ,ex. Ubuntu )
+### 1. Clone the repository 
+```bash
+git clone https://github.com/r2croy/RAPD_Autoscorer
+
+```
+### 2. Enter the project
+
+```bash
+cd RAPD_Autoscorer
+```
+### 3. (Optional but recomendend) Create a virtual Environment 
+
+```bash
+python3 -m venv venv
+```
+Acitvate it : 
+
+```bash
+source venve/bin/activate
+```
+
+### 4. Install required pakeges 
+
+```bash
+ pip3 install -r requirements.txt
+```
+### 5. Run the program
+
+```bash
+python3 main.py
+```
+
 ## Author
 
 Ridoy Roy
